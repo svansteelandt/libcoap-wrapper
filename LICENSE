@@ -1,3 +1,12 @@
+This is a wrapper written in Go around (part of) the libcoap C library
+
+Below is a reference to the copyright holder of libcoap:
+
+Copyright (c) 2010--2017, Olaf Bergmann and others
+All rights reserved.
+
+--------------------------------------------------------------------------------
+
 MIT License
 
 Copyright (c) 2018 svansteelandt
